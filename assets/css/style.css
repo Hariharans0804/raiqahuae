@@ -1,0 +1,306 @@
+/*<!-- ================================
+            enquiry From 
+===================================-->*/
+
+.enquiryFrom {
+    width: 100%;
+    padding-top: 2rem;
+    /* border: 2px solid salmon; */
+}
+
+.error {
+    color: red;
+    font-size: 1rem;
+    font-weight: 300;
+}
+
+.enquiry-form-group {
+    /* margin-left: 5rem; */
+    padding: 10px;
+    font-family: sans-serif;
+    /* border: 2px solid salmon; */
+}
+
+.enquiry-form-group label {
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: #020E4F;
+    padding: 15px 0px;
+    line-height: 3rem;
+}
+
+.enquiry-form-group input {
+    font-size: 1rem;
+    padding: 10px 10px 10px 20px;
+    outline: none;
+    border: 1px solid #d0d6db;
+    width: 50rem;
+}
+
+.enquiry-form-group textarea {
+    width: 50rem;
+    height: 10rem;
+    font-size: 1rem;
+    padding: 10px 10px 10px 20px;
+    outline: none;
+    border: 1px solid #d0d6db;
+    resize: none;
+}
+
+.enquiry-numbers {
+    width: 100%;
+    /* margin-left: 5rem; */
+    display: flex;
+    align-items: center;
+    gap: 4.5rem;
+    /* justify-content: space-between; */
+    /* border: 2px solid yellowgreen; */
+}
+
+.enquiry-form-group1,
+.enquiry-form-group2 {
+    /* margin-left: 5rem; */
+    padding: 10px;
+    /* width: 50%; */
+    /* border: 1px solid blue; */
+}
+
+.enquiry-form-group1 label {
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: #020E4F;
+    padding: 15px 0px;
+    line-height: 3rem;
+}
+
+.enquiry-form-group2 label{
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: #020E4F;
+    padding: 15px 0px;
+    line-height: 3rem;
+    /* margin-left: 3.5rem; */
+}
+
+.enquiry-form-group1 input {
+    font-size: 1rem;
+    padding: 10px 10px 10px 20px;
+    outline: none;
+    border: 1px solid #d0d6db;
+    width: 22rem;
+}
+
+.enquiry-form-group2 input {
+    font-size: 1rem;
+    padding: 10px 10px 10px 20px;
+    outline: none;
+    border: 1px solid #d0d6db;
+    width: 22rem;
+    /* margin-left: 3.5rem; */
+}
+
+.enquiry-service {
+    width: 100%;
+    margin-left: 0.5rem;
+}
+
+.enquiry-service .service-type {
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: #020E4F;
+    padding: 15px 0px;
+    line-height: 3rem;
+    margin-left: 0.5rem;
+}
+
+.enquiry-service-1 {
+    /* margin-left: 5.5rem; */
+    padding: 5px;
+}
+
+.enquiry-service-1 input {
+    margin-right: 0.5rem;
+    cursor: pointer;
+}
+
+.enquiry-service-1 label {
+    font-size: 1.1rem;
+    font-weight: 300;
+    margin-right: 2rem;
+    cursor: pointer;
+}
+
+
+.enquiry-service-2 {
+    /* margin-left: 5.5rem; */
+    padding: 5px;
+}
+
+.enquiry-service-2 input {
+    margin-right: 0.5rem;
+    cursor: pointer;
+}
+
+.enquiry-service-2 label {
+    font-size: 1.1rem;
+    font-weight: 300;
+    margin-right: 2rem;
+    cursor: pointer;
+}
+
+.enquiry-service-3 {
+    /* margin-left: 5.5rem; */
+    padding: 5px;
+}
+
+.enquiry-service-3 input {
+    margin-right: 0.5rem;
+    cursor: pointer;
+}
+
+.enquiry-service-3 label {
+    font-size: 1.1rem;
+    font-weight: 300;
+    margin-right: 2rem;
+    cursor: pointer;
+}
+
+.enquiry-service-4 {
+    /* margin-left: 5.5rem; */
+    padding: 5px;
+}
+
+.enquiry-service-4 input {
+    margin-right: 0.5rem;
+    cursor: pointer;
+}
+
+.enquiry-service-4 label {
+    font-size: 1.1rem;
+    font-weight: 300;
+    margin-right: 2rem;
+    cursor: pointer;
+}
+
+.enquiry-form-group-end {
+    /* margin-left: 5rem; */
+    padding: 10px;
+    margin-bottom: 5rem;
+}
+
+.enquiry-form-group-end button {
+    font-size: 1rem;
+    font-weight: 600;
+    padding: 15px 15px 15px 15px;
+    outline: none;
+    border: 1px solid #E41B29;
+    width: 16rem;
+    border-radius: 30px;
+    cursor: pointer;
+    background: #E41B29;
+    color: #F2F3F6;
+    letter-spacing: 2px;
+    transition: .5s ease-in;
+}
+
+.enquiry-form-group-end button:hover {
+    /* background: #020E4F; */
+    border: 1px solid #020E4F;
+    box-shadow: inset -140px 0px 0px 0px  #020E4F, inset 140px 0px 0px 0px  #020E4F;
+}
+
+/*<!-- ================================
+            contact us Form
+===================================-->*/
+
+.contactusForm {
+    width: 100%;
+    /* border: 2px solid purple; */
+}
+
+.error {
+    color: red;
+    font-size: 15px;
+    font-weight: 300;
+}
+
+.contactus-name-number {
+    display: flex;
+    align-items: center;
+    /* margin-left: 5rem; */
+    margin-bottom: 1rem;
+    gap: 1.5rem;
+}
+
+.contactus-form-group1,
+.contactus-form-group2 {
+    width: 50%;
+    padding: 10px;
+}
+
+.contactus-form-group1 input,
+.contactus-form-group2 input {
+    font-size: 1rem;
+    padding: 15px 10px 15px 20px;
+    outline: none;
+    border: 1px solid #d0d6db;
+    width: 19rem;
+}
+
+.contactus-form-group {
+    /* margin-left: 5rem; */
+    padding: 10px;
+    margin-bottom: 1rem;
+}
+
+.contactus-form-group input {
+    font-size: 1rem;
+    padding: 15px 10px 15px 20px;
+    outline: none;
+    border: 1px solid #d0d6db;
+    width: 40.8rem;
+}
+
+.contactus-form-group textarea {
+    width: 40.8rem;
+    height: 14rem;
+    font-size: 1rem;
+    padding: 15px 10px 15px 20px;
+    outline: none;
+    border: 1px solid #d0d6db;
+    resize: none;
+}
+
+.contactus-form-group-end {
+    /* margin-left: 5rem; */
+    padding: 10px;
+    margin-bottom: 5rem;
+}
+
+.contactus-form-group-end i {
+    padding-left: 5px;
+    font-size: medium;
+}
+
+.contactus-form-group-end button {
+    font-size: 1rem;
+    font-weight: 600;
+    padding: 15px 15px 15px 15px;
+    outline: none;
+    border: 1px solid #E41B29;
+    width: 13rem;
+    border-radius: 5px;
+    cursor: pointer;
+    background: #E41B29;
+    color: #F2F3F6;
+    letter-spacing: 2px;
+    transition: .5s ease-in;
+}
+
+.contactus-form-group-end button:hover {
+    /* background: #020E4F; */
+    border: 1px solid #020E4F;
+    box-shadow: inset -140px 0px 0px 0px #020E4F, inset 140px 0px 0px 0px #020E4F;
+}
+
+
